@@ -227,8 +227,7 @@ Exercícios e projetos acadêmicos envolvendo lógica de programação, orienta�
 ## 📈 GitHub Statistics | Estatísticas
 
 <img height="165" src="./profile-summary-card-output/transparent/0-profile-details.svg" />
-<img height="165" src="./profile-summary-card-output/transparent/1-languages.svg" />
-
+<img height="165" src="./profile-summary-card-output/transparent/4-productive-time.svg" />
 
 <br/>
 
