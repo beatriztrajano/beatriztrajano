@@ -226,9 +226,9 @@ Exercícios e projetos acadêmicos envolvendo lógica de programação, orienta�
 
 ## 📈 GitHub Statistics | Estatísticas
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=beatriztrajano&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=9276B9&icon_color=B9D8EE&text_color=8B8297&rank_icon=github"/>
+<img height="165" src="./profile-summary-card-output/transparent/0-profile-details.svg" />
+<img height="165" src="./profile-summary-card-output/transparent/1-languages.svg" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatriztrajano&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=9276B9&text_color=8B8297"/>
 
 <br/>
 
