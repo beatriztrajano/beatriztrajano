@@ -33,7 +33,7 @@ jobs:
         uses: vn7n24fzkq/github-profile-summary-cards@v2
         with:
           username: ${{ github.repository_owner }}
-          # Altere o nome abaixo para qualquer um da lista acima:
           THEME: solarized_light
+
 
 
