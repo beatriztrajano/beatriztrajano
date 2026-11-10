@@ -237,17 +237,6 @@ Exercícios e projetos acadêmicos envolvendo lógica de programação, orienta�
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
-
-<div align="center">
-
-## 🌱 Contribution Garden | Jardim de contribuições
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=beatriztrajano&bg_color=00000000&color=9276B9&line=B9A1DD&point=E8C879&area=true&hide_border=true"/>
-
-</div>
-
----
 
 <!-- CONTACT -->
 
