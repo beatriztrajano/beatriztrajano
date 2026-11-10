@@ -29,4 +29,4 @@ jobs:
           BRANCH_NAME: main
           UTC_OFFSET: -3
           AUTO_PUSH: true
-          THEME: meu_tema
+          THEME: solarized_light
