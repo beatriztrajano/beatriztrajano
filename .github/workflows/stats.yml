@@ -29,4 +29,14 @@ jobs:
           BRANCH_NAME: main
           UTC_OFFSET: -3
           AUTO_PUSH: true
-          THEME: solarized-light
+      - name: GitHub Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@v2
+        with:
+          username: ${{ github.repository_owner }}
+          # Usamos o tema padrão como base e injetamos suas cores personalizadas:
+          THEME: default
+          BG_COLOR: F5E3A8
+          TITLE_COLOR: 8064A8
+          TEXT_COLOR: 333333
+          LINE_COLOR: B9D8EE
+
