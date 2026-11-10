@@ -29,10 +29,7 @@ jobs:
           BRANCH_NAME: main
           UTC_OFFSET: -3
           AUTO_PUSH: true
-      - name: GitHub Profile Summary Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@v2
-        with:
-          username: ${{ github.repository_owner }}
+          THEME: transparent
           THEME: solarized_light
 
 
