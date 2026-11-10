@@ -30,4 +30,3 @@ jobs:
           UTC_OFFSET: -3
           AUTO_PUSH: true
           THEME: solarized_light
-
