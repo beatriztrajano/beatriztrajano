@@ -38,14 +38,18 @@
 <div align="center">
 
 ```text
-/\_/\
-          ( o.o )     . . .
-                > ^ <   [ CODE MODE ]
-/|   |\
-(_|   |_)
+                              /\_/\
+                                        ( o.o )     . . .
+                                              > ^ <   [ CODE MODE ]
+                              /|   |\
+                              (_|   |_)
 ```
 
-<sub>Loading creativity... ██████████ 100%</sub>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=800&color=9276B9&center=true&vCenter=true&width=400&lines=Loading+creativity...;Building+new+ideas...;Learning+something+new...;Ready+to+code!+%E2%9C%A8" />
+
+</div>
 
 </div>
 
