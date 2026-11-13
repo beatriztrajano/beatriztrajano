@@ -294,26 +294,12 @@ Exercícios e projetos acadêmicos envolvendo lógica de programação, orienta�
 
 ## 📊 GitHub Statistics | Estatísticas
 
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=beatriztrajano&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=10101D&title_color=CA7DF9&icon_color=3BF4FB&text_color=EDF67D&rank_icon=github"
-alt="GitHub Statistics"
-/>
+![](https://github-readme-stats.shion.dev/api?username=beatriztrajano&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=false)
+<br/> <br/> <br/>
+![](https://streak-stats.demolab.com/?user=beatriztrajano&theme=shades-of-purple&hide_border=true)<br/> <br/> <br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=beatriztrajano&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatriztrajano&layout=compact&langs_count=8&hide_border=true&bg_color=10101D&title_color=F896D8&text_color=EDF67D"
-alt="Most Used Languages"
-/>
-
-<br/>
-
-<img
-width="75%"
-src="https://streak-stats.demolab.com/?user=beatriztrajano&hide_border=true&background=10101D&ring=CA7DF9&fire=EDF67D&currStreakLabel=3BF4FB&sideLabels=F896D8&dates=CA7DF9&currStreakNum=EDF67D&sideNums=EDF67D"
-alt="GitHub Streak"
-/>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
 
 ---
