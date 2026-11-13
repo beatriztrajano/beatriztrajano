@@ -288,18 +288,94 @@ Exercícios e projetos acadêmicos envolvendo lógica de programação, orienta�
 
 ---
 
-<!-- ===================== GITHUB STATISTICS ===================== -->
+<!-- =====================================================
+     COSMIC PROFILE SUMMARY CARDS
+     Theme: Starry Purple / Pink / Pastel Yellow
+     Layout: 3 cards per row
+====================================================== -->
 
 <div align="center">
 
-## 📊 GitHub Statistics | Estatísticas
+## ✨ GitHub Statistics | Estatísticas ✨
 
-![](https://github-readme-stats.shion.dev/api?username=beatriztrajano&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=false)
-<br/> <br/> <br/>
-![](https://streak-stats.demolab.com/?user=beatriztrajano&theme=shades-of-purple&hide_border=true)<br/> <br/> <br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=beatriztrajano&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<sub>Exploring the universe, one contribution at a time.</sub>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+<!-- ================= ROW 1 ================= -->
+<!-- PROFILE DETAILS | REPOS PER LANGUAGE | MOST COMMIT LANGUAGE -->
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=beatriztrajano&theme=github_dark&title_color=CA7DF9&text_color=F896D8&bg_color=100D1C&border_color=724CF9&icon_color=EDF67D&chart_color=CA7DF9"
+width="100%"
+alt="GitHub Stats"
+/>
+</td>
+
+<td width="33%" align="center">
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beatriztrajano&theme=github_dark&title_color=CA7DF9&text_color=F896D8&bg_color=100D1C&border_color=724CF9&icon_color=EDF67D&chart_color=F896D8"
+width="100%"
+alt="Repositories per Language"
+/>
+</td>
+
+<td width="33%" align="center">
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=beatriztrajano&theme=github_dark&title_color=CA7DF9&text_color=F896D8&bg_color=100D1C&border_color=724CF9&icon_color=EDF67D&chart_color=EDF67D"
+width="100%"
+alt="Most Commit Language"
+/>
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ================= ROW 2 ================= -->
+<!-- GITHUB STATS | PRODUCTIVE TIME -->
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beatriztrajano&theme=github_dark&title_color=CA7DF9&text_color=F896D8&bg_color=100D1C&border_color=724CF9&icon_color=EDF67D&chart_color=CA7DF9"
+width="100%"
+alt="Profile Details"
+/>
+</td>
+
+
+<td width="50%" align="center">
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=beatriztrajano&theme=github_dark&utcOffset=-3&title_color=CA7DF9&text_color=F896D8&bg_color=100D1C&border_color=724CF9&icon_color=EDF67D&chart_color=F896D8"
+width="100%"
+alt="Productive Time"
+/>
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ================= FOOTER ================= -->
+
+<sub>
+✦ Code • Creativity • Cosmic discoveries ✦
+</sub>
+
+</div>
+
+<!-- ================= END COSMIC STATS ================= -->
+
+
 </div>
 
 ---
