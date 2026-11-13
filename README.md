@@ -6,21 +6,23 @@
 ====================================================== -->
 
 <!-- HEADER -->
+
+<!-- COSMIC HEADER -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8064A8,45:C6B5E5,75:B9D8EE,100:F5E3A8&height=190&section=header&text=Beatriz%20Trajano&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Technology%20%7C%20Innovation&descAlignY=60&descSize=14"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:724CF9,30:CA7DF9,60:F896D8,85:3BF4FB,100:EDF67D&height=210&section=header&text=Beatriz%20Trajano&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Technology%20%7C%20Innovation&descAlignY=60&descSize=14"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=9276B9&center=true&vCenter=true&width=600&lines=Hello%2C+world!+%F0%9F%90%88;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Computer+Science+Student;Exploring+code%2C+science+and+technology;Turning+ideas+into+reality!" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=CA7DF9&center=true&vCenter=true&width=650&lines=Hello%2C+world!+%E2%9C%A8;Computer+Science+Student;Exploring+the+universe+of+technology;Turning+ideas+into+reality;The+sky+is+not+the+limit!" />
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-Always%20Learning-C6B5E5?style=flat-square&labelColor=8064A8"/>
-<img src="https://img.shields.io/badge/FOCUS-Technology-B9D8EE?style=flat-square&labelColor=8064A8"/>
-<img src="https://img.shields.io/badge/MOOD-Cat%20Powered-F5E3A8?style=flat-square&labelColor=8064A8"/>
+<img src="https://img.shields.io/badge/STATUS-Always%20Exploring-EDF67D?style=flat-square&labelColor=724CF9"/>
+<img src="https://img.shields.io/badge/FOCUS-Technology-3BF4FB?style=flat-square&labelColor=724CF9"/>
+<img src="https://img.shields.io/badge/MINDSET-Infinite%20Curiosity-F896D8?style=flat-square&labelColor=724CF9"/>
 
 </div>
 
----
 
 <!-- INTRODUCTION -->
 
